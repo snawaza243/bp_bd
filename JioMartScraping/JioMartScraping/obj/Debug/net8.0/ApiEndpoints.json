@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "JioMartScraping.Controllers.JioMartController",
+    "Method": "GetJioMartData",
+    "RelativePath": "api/JioMart",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "url",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

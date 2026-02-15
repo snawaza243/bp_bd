@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cL4rXFkHnQsaoMTqjPKqujt0iBJzw/jvx1EyD0vThSs=",
+  "Source": "JioMartScraping",
+  "BasePath": "_content/JioMartScraping",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\snawa\\Desktop\\CSHARP\\CSAmazon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5859916-E92E-4C66-ADBE-CB885D2596AB}|CSAmazon\\CSAmazon.csproj|c:\\users\\snawa\\desktop\\csharp\\csamazon\\csamazon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5859916-E92E-4C66-ADBE-CB885D2596AB}|CSAmazon\\CSAmazon.csproj|solutionrelative:csamazon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\snawa\\Desktop\\CSHARP\\CSAmazon\\CSAmazon\\Program.cs",
+              "RelativeDocumentMoniker": "CSAmazon\\Program.cs",
+              "ToolTip": "C:\\Users\\snawa\\Desktop\\CSHARP\\CSAmazon\\CSAmazon\\Program.cs",
+              "RelativeToolTip": "CSAmazon\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAcwDwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T09:47:44.827Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
